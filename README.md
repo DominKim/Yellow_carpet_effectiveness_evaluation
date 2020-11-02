@@ -5,7 +5,7 @@
 > - Researcher
 > [박준영](https://github.com/parkjunyoung27), [배수혜](https://github.com/SuHae-Bae)
 > - Analysis
-> [강민경](https://github.com/kang260), [김지현](https://github.com/kjjh714), [신영]()
+> [강민경](https://github.com/kang260), [김지현](https://github.com/kjjh714), [신현영]()
 > - proposla, ppt writer
 > [박윤설](), [김성민](https://github.com/qwe3965)
 > - presenter
