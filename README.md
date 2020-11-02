@@ -3,11 +3,11 @@
 > - PM
 > [김도민](https://github.com/DominKim?tab=repositories)
 > - Researcher
-> [박준영](https://github.com/parkjunyoung27)[배수혜](https://github.com/SuHae-Bae)
+> [박준영](https://github.com/parkjunyoung27), [배수혜](https://github.com/SuHae-Bae)
 > - Analysis
-> [강민경]()[김지현](https://github.com/kjjh714)[신형영]()
+> [강민경](), [김지현](https://github.com/kjjh714), [신형영]()
 > - proposla, ppt writer
-> [박윤설]()[김성민](https://github.com/qwe3965)
+> [박윤설](), [김성민](https://github.com/qwe3965)
 > - presenter
 > [박재민]()
 > ## 프로젝트 기획서 ##
