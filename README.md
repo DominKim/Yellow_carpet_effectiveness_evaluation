@@ -1,4 +1,15 @@
 # 서울시 어린이보호구역 내 옐로카펫 효과성 검증
+> ## 역할 ##
+> - PM
+> [김도민](https://github.com/DominKim?tab=repositories)
+> - Researcher
+> [박준영](https://github.com/parkjunyoung27)[배수혜](https://github.com/SuHae-Bae)
+> - Analysis
+> [강민경]()[김지현](https://github.com/kjjh714)[신형영]()
+> - proposla, ppt writer
+> [박윤설]()[김성민](https://github.com/qwe3965)
+> - presenter
+> [박재민]()
 > ## 프로젝트 기획서 ##
 >> [기획서](https://github.com/DominKim/Yellow_carpet_effectiveness_evaluation/blob/main/%EA%B3%BC%EC%A0%9C%EA%B0%9C%EC%9A%94%EC%84%9C/%EC%84%9C%EC%9A%B83%EB%B0%98_11%EC%A1%B0_%EA%B3%BC%EC%A0%9C%EA%B0%9C%EC%9A%94%EC%84%9C_%EC%B5%9C%EC%A2%85(20200917).hwp)
 ~~~ python3
