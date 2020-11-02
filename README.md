@@ -10,4 +10,4 @@
 > ## 분석 프로세스 ##
 >> [R.F 결과]<img src="./Yellow_carpet_effectiveness_evaluation/그림/분석 프로세스.png" width="80%" height="50%"></img>
 > ## 전처리 과정 ##
->> [전처리과정]<img src="./Yellow_carpet_effectiveness_evaluation/그림/전처리.png" ></img>
+>> [전처리과정]<img src="./그림/전처리.png" width="80%" height="50%"></img>
