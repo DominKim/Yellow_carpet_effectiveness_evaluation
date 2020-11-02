@@ -21,4 +21,4 @@
 > ## 분석 프로세스 ##
 >> <img src="./그림/분석 프로세스.png" width="80%" height="50%"></img>
 > ## 전처리 과정 ##
->> [<img src="./그림/전처리.png" width="80%" height="50%"></img>
+>> <img src="./그림/전처리.png" width="80%" height="50%"></img>
