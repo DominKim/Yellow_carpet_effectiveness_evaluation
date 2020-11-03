@@ -9,7 +9,7 @@
 > - proposla, ppt writer
 > [박윤설](), [김성민](https://github.com/qwe3965)
 > - presenter
-> [박재민]()
+> [박재민](https://github.com/JAM-PARK)
 > ## 프로젝트 기획서 ##
 >> [기획서](https://github.com/DominKim/Yellow_carpet_effectiveness_evaluation/blob/main/%EA%B3%BC%EC%A0%9C%EA%B0%9C%EC%9A%94%EC%84%9C/%EC%84%9C%EC%9A%B83%EB%B0%98_11%EC%A1%B0_%EA%B3%BC%EC%A0%9C%EA%B0%9C%EC%9A%94%EC%84%9C_%EC%B5%9C%EC%A2%85(20200917).hwp)
 ~~~ python3
